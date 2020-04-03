@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>pampas93.simpleLib</id>
+    <version>1.0.2</version>
+    <authors>Abhijit Srikanth</authors>
+    <owners>Abhijit Srikanth</owners>
+    <license type="expression">MIT</license>
+    <description>Simple Calculator lib DLL</description>
+    <projectUrl>https://github.com/pampas93/NuGet-Experiments/tree/master/SimpleLib</projectUrl>
+  </metadata>
+  <files>
+    <!-- <file src="Win32\Release\SimpleLib.dll" target="LibTest\x86\"></file> -->
+    <file src="x64\Release\SimpleLib.dll" target="LibTest\x64\"></file>
+  </files>
+</package>
